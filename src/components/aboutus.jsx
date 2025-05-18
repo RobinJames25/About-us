@@ -26,8 +26,11 @@ const AboutUs = () => {
         <section className="about-box">
           <h2>Our Vision</h2>
           <p>
-            Our mission is to empower job seekers and employers at the coast by providing
-            a reliable, user friendly platform for job listings and applications.
+            To be the leading platform
+            where job seekers can 
+            access up-to-date job
+            opportunities, training and 
+            support
           </p>
         </section>
 
