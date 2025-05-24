@@ -25,7 +25,6 @@
 }
 
 .footer-section h3 {
-  color: var(--main-color);
   margin-bottom: 1.5rem;
   font-size: 1.25rem;
 }
@@ -52,7 +51,7 @@
 }
 
 .footer-section ul li a:hover {
-  color: var(--main-color);
+  color: #ccc;
 }
 
 .footer-section a {
@@ -62,7 +61,7 @@
 }
 
 .footer-section a:hover {
-  color: var(--main-color);
+  color: #ccc;
 }
 
 .social-links {
