@@ -13,7 +13,7 @@ dist-ssr
 *.local
 
 # Ignore test folder in About-us only
-/About-us/test
+/About-us/test/
 
 # Editor directories and files
 .vscode/*
